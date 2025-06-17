@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/smian0-mcp-agile-flow-badge.png)](https://mseep.ai/app/smian0-mcp-agile-flow)
+
 # MCP Agile Flow
 
 [![Coverage](https://github.com/yourusername/mcp-agile-flow/raw/main/badges/coverage.svg)](https://yourusername.github.io/mcp-agile-flow/)
